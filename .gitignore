@@ -1,0 +1,5 @@
+vendor
+tests/reports
+tests/output/*
+!tests/output/.gitkeep
+composer.lock
